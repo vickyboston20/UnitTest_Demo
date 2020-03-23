@@ -1,1 +1,3 @@
 Run setup.py before running pytest
+
+python setup.py develop
