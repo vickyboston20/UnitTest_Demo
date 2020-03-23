@@ -1,0 +1,14 @@
+{
+  "employees": [
+    {
+      "emp_id": 1,
+      "name": "vicky",
+      "is_employee": true
+    },
+    {
+      "emp_id": 2,
+      "name": "unknown",
+      "is_employee": false
+    }
+  ]
+}
